@@ -1,0 +1,9 @@
+.menu_footer_yes {
+    margin: 16px 46px;
+}
+
+.menu_footer_yes .menu__item {
+    margin-right: 8px;
+    font-size: 18px;
+    color: #888;
+}

@@ -1,0 +1,15 @@
+{
+  "author": "Antipov Stas",
+  "name": "bem-Television",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.6 | 0.7 | 0.8 | 0.9"
+  },
+  "dependencies": {
+    "enb" : ">=0.10.0",
+    "enb-xjst": ">=1.0.0",
+    "bh": ">=1.1.1"
+  },
+  "devDependencies": {},
+  "private": true
+}

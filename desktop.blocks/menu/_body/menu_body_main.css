@@ -1,0 +1,30 @@
+.menu_body_main {
+    padding: 12px 24px 0;
+    background: #E15B19;
+}
+
+.menu_body_main .menu__item {
+    margin-right: 6px;
+    display: inline-block;
+}
+
+.menu_body_main .menu__item a {
+    display: inline-block;
+    padding: 0 6px;
+    font: 22px/42px "PT Sans", Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    text-shadow: 0 1px 1px #333;
+}
+
+.menu_body_main .menu__item a.active {
+    color: #333;
+    text-shadow: 0 1px 1px white;
+    background: white;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.menu_body_main .menu__item a:hover {
+    text-decoration: underline;
+}
