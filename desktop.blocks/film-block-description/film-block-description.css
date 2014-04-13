@@ -1,0 +1,25 @@
+.film-block-description {
+    width: 470px;
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 6px 6px -4px rgba(0, 0, 0, 0.14);
+    line-height: 1.4em;
+    max-width: 680px;
+    padding: 10px;
+}
+
+.film-block-description__left{
+    position: absolute;
+    top:63px;
+    left:520px;
+}
+
+.film-block-description__title {
+    font-size:1em;
+    color: #797979;
+    font-weight: bold;
+    margin-top: 0;
+    padding: 3px 0 0;
+}
+.film-block-description__text {
+    line-height: 1.4em;
+}

@@ -1,0 +1,45 @@
+.film-block-images {
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 6px 6px -4px rgba(0, 0, 0, 0.3);
+    background-color: #FFFFFF;
+    display: block;
+    height: 360px;
+    line-height: 360px;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    width: 480px;
+    height:436px;       
+}
+
+.film-block-images__img-wrap {
+    width:400px;
+	height:300px;
+    display: inline-block;
+    line-height: 360px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.film-block-images__thumbs {
+    background: none repeat scroll 0 0 #E5E5E5;
+    border-top: 1px solid #999999;
+    box-shadow: 0 5px 5px -5px rgba(0, 0, 0, 0.4) inset;
+    overflow: hidden;
+    position: relative;
+}
+
+.film-block-images__thumb {
+    background-position: center center;
+    border-left: 1px solid #000000;
+    float: left;
+    cursor: pointer;
+    display: block;
+    height: 75px;
+    position: relative;
+    width: 100px;
+}
+
+.thumb_selected_yes {
+    cursor: default;
+    opacity: 0.4;
+}

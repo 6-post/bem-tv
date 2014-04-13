@@ -1,0 +1,21 @@
+.film-block-info {
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 3px 4px -3px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+    padding: 0px 10px 5px;
+    width: 460px;  
+}
+.film-block-info-list {
+    padding: 5px 5px 5px 0;
+}
+.film-block-info-list__name {
+    color: #797979;
+    font-weight: bold;
+    padding: 12px 5px 5px 0;
+    vertical-align: top;
+    white-space: nowrap; 
+}
+.film-block-info-list__text {
+    position: relative;
+    margin:-20px 0px 0px 100px;
+}

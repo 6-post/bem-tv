@@ -1,0 +1,28 @@
+.country-choose {
+    margin: 0 auto;
+    height:33px;
+    max-width: 1620px;
+    min-width: 1000px;
+    padding-left: 20px;
+    position: relative;
+    z-index: 2;
+}
+.country-choose__city {
+    font-size: 1.231em;
+    position: relative;
+    vertical-align: middle; 
+    margin-top: -3px;
+    display:inline-block; 
+}
+.country-choose__region {
+    background: -moz-linear-gradient(center top , rgba(0, 0, 0, 0.08) 0px, rgba(0, 0, 0, 0.18) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    border:none;
+    height: 19px;
+    font: 11px/18px Verdana,Arial,sans-serif;
+    margin: 0 15px;
+    padding: 0 9px;
+}

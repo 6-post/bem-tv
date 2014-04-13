@@ -1,0 +1,14 @@
+.film_title {
+    font-size: 2.4em;
+    font-weight: normal;
+    margin-bottom: 0.41em;
+    overflow: hidden;
+    height:55px;
+}
+
+.film-title__info {
+    color: #898989;
+    font-size: 12.8px;
+    font-weight: normal;
+    display:block;   
+}

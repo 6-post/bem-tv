@@ -1,0 +1,7 @@
+.content {
+    margin: 65px auto 0;
+    max-width: 1600px;
+    min-width: 980px;
+    padding: 0 20px;
+    position: relative;
+}
