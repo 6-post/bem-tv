@@ -105,11 +105,12 @@
                                 },
                                 {
                                     elem: 'thumbs',
+									js: true,
                                     content: [
                                         {
                                             elem: 'thumb',
                                             image: 'http://avatars.yandex.net/get-tv-shows/1345134165467M81123/small',
-                                            cls: ['thumb_selected_yes']
+                                            cls: ['film-block-images__thumb_active_img']
                                         },
                                         {
                                             elem: 'thumb',

@@ -39,7 +39,7 @@
     width: 100px;
 }
 
-.thumb_selected_yes {
+.film-block-images__thumb_active_img {
     cursor: default;
     opacity: 0.4;
 }
