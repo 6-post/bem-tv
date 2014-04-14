@@ -91,6 +91,7 @@
                         },
                         {
                             block: 'film-block-images',
+							js: true,
                             content: [
                                 {
                                     elem: 'img-wrap',
